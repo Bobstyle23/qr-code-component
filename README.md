@@ -9,7 +9,7 @@
 
 ### Screenshot
 
-![QR Code Screenshot](./screenshot/qr-code.png)
+![QR Code Screenshot](./screenshot/qr-code-screenshot.png)
 
 ### Links
 
