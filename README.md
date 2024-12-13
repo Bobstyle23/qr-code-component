@@ -9,7 +9,7 @@
 
 ### Screenshot
 
-![QR Code Screenshot](./screenshot/Screenshot 2024-12-13 at 15.04.24.png)
+![QR Code Screenshot](./screenshot/qr-code.png)
 
 ### Links
 
